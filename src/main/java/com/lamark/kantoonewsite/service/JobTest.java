@@ -11,11 +11,9 @@ package com.lamark.kantoonewsite.service;
  */
 public class JobTest {
     
-<<<<<<< HEAD
-    private int c;
-=======
     private int a;
     private int b;
->>>>>>> 6b2920607d2038f51688a0807f4fb70dfae49809
+    
+    private int c;
     
 }
