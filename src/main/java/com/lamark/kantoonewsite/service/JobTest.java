@@ -11,4 +11,6 @@ package com.lamark.kantoonewsite.service;
  */
 public class JobTest {
     
+    private int c;
+    
 }
