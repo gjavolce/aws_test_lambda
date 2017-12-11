@@ -14,6 +14,11 @@ import java.util.List;
  */
 public class JobService {
 
+    public JobService() {
+    }
+    
+    
+
     JobPersistence jobPersistence = new JobPersistence();
 
     public List<Job> getAllJobsArray() {
