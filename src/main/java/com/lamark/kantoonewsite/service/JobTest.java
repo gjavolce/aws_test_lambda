@@ -39,9 +39,7 @@ public class JobTest {
         return c;
     }
 
-    public void setC(int c) {
-        this.c = c;
-    }
+  
     
     
     
