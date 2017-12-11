@@ -29,7 +29,7 @@ public class ContactController implements RequestHandler<Contact, Contact> {
         } catch (IOException ex) {
             Logger.getLogger(ContactController.class.getName()).log(Level.SEVERE, null, ex);
         }
-        return null;
+        return new Contact();
     }
 
 }
